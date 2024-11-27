@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="top_system_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="top_system_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="16345207912001fs"></ZoomEndTime>
+      <Cursor1Time time="16345207912000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="198"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="19" />
+   <wvobject fp_name="/top_system_tb/RST_i" type="logic">
+      <obj_property name="ElementShortName">RST_i</obj_property>
+      <obj_property name="ObjectShortName">RST_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/CLK_i" type="logic">
+      <obj_property name="ElementShortName">CLK_i</obj_property>
+      <obj_property name="ObjectShortName">CLK_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/u_tx/dato_tx" type="array">
+      <obj_property name="ElementShortName">dato_tx[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dato_tx[7:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/RX_i" type="logic">
+      <obj_property name="ElementShortName">RX_i</obj_property>
+      <obj_property name="ObjectShortName">RX_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/DUT/u_rx/RX_OK" type="logic">
+      <obj_property name="ElementShortName">RX_OK</obj_property>
+      <obj_property name="ObjectShortName">RX_OK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/LED_i" type="logic">
+      <obj_property name="ElementShortName">LED_i</obj_property>
+      <obj_property name="ObjectShortName">LED_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/DUT/DATO_RX" type="array">
+      <obj_property name="ElementShortName">DATO_RX[7:0]</obj_property>
+      <obj_property name="ObjectShortName">DATO_RX[7:0]</obj_property>
+      <obj_property name="CustomSignalColor">#0000FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/DUT/DATO_RX_OK" type="logic">
+      <obj_property name="ElementShortName">DATO_RX_OK</obj_property>
+      <obj_property name="ObjectShortName">DATO_RX_OK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/DP_i" type="logic">
+      <obj_property name="ElementShortName">DP_i</obj_property>
+      <obj_property name="ObjectShortName">DP_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/SEG_AG_i" type="array">
+      <obj_property name="ElementShortName">SEG_AG_i[6:0]</obj_property>
+      <obj_property name="ObjectShortName">SEG_AG_i[6:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/AND_30_i" type="array">
+      <obj_property name="ElementShortName">AND_30_i[3:0]</obj_property>
+      <obj_property name="ObjectShortName">AND_30_i[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/BUSY_i" type="logic">
+      <obj_property name="ElementShortName">BUSY_i</obj_property>
+      <obj_property name="ObjectShortName">BUSY_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/RES_i" type="logic">
+      <obj_property name="ElementShortName">RES_i</obj_property>
+      <obj_property name="ObjectShortName">RES_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/VBAT_i" type="logic">
+      <obj_property name="ElementShortName">VBAT_i</obj_property>
+      <obj_property name="ObjectShortName">VBAT_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/VDD_i" type="logic">
+      <obj_property name="ElementShortName">VDD_i</obj_property>
+      <obj_property name="ObjectShortName">VDD_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/D_C_i" type="logic">
+      <obj_property name="ElementShortName">D_C_i</obj_property>
+      <obj_property name="ObjectShortName">D_C_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/CS_i" type="logic">
+      <obj_property name="ElementShortName">CS_i</obj_property>
+      <obj_property name="ObjectShortName">CS_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/SDIN_i" type="logic">
+      <obj_property name="ElementShortName">SDIN_i</obj_property>
+      <obj_property name="ObjectShortName">SDIN_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_tb/SCLK_i" type="logic">
+      <obj_property name="ElementShortName">SCLK_i</obj_property>
+      <obj_property name="ObjectShortName">SCLK_i</obj_property>
+   </wvobject>
+</wave_config>

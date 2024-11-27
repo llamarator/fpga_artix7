@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="display_controller_tb_time_impl.wdb" id="1">
+         <top_modules>
+            <top_module name="display_controller_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="11653846153fs"></ZoomStartTime>
+      <ZoomEndTime time="42631163708fs"></ZoomEndTime>
+      <Cursor1Time time="16401709000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="178"></NameColumnWidth>
+      <ValueColumnWidth column_width="101"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="14" />
+   <wave_markers>
+      <marker time="71101545000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/display_controller_tb/RST_i" type="logic">
+      <obj_property name="ElementShortName">RST_i</obj_property>
+      <obj_property name="ObjectShortName">RST_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_controller_tb/CLK_i" type="logic">
+      <obj_property name="ElementShortName">CLK_i</obj_property>
+      <obj_property name="ObjectShortName">CLK_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_controller_tb/DATO_RX_OK_i" type="logic">
+      <obj_property name="ElementShortName">DATO_RX_OK_i</obj_property>
+      <obj_property name="ObjectShortName">DATO_RX_OK_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_controller_tb/DUT/DATO_RX_OK_aux" type="logic">
+      <obj_property name="ElementShortName">DATO_RX_OK_aux</obj_property>
+      <obj_property name="ObjectShortName">DATO_RX_OK_aux</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_controller_tb/DATO_RX_i" type="array">
+      <obj_property name="ElementShortName">DATO_RX_i[7:0]</obj_property>
+      <obj_property name="ObjectShortName">DATO_RX_i[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_controller_tb/AND_30_i" type="array">
+      <obj_property name="ElementShortName">AND_30_i[3:0]</obj_property>
+      <obj_property name="ObjectShortName">AND_30_i[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_controller_tb/SEG_AG_i" type="array">
+      <obj_property name="ElementShortName">SEG_AG_i[6:0]</obj_property>
+      <obj_property name="ObjectShortName">SEG_AG_i[6:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_controller_tb/DUT/T_DISPL_i_1_n_0" type="logic">
+      <obj_property name="ElementShortName">T_DISPL_i_1_n_0</obj_property>
+      <obj_property name="ObjectShortName">T_DISPL_i_1_n_0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_controller_tb/DUT/SEL" type="logic">
+      <obj_property name="ElementShortName">SEL</obj_property>
+      <obj_property name="ObjectShortName">SEL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_controller_tb/DUT/DATA_aux" type="array">
+      <obj_property name="ElementShortName">DATA_aux[7:0]</obj_property>
+      <obj_property name="ObjectShortName">DATA_aux[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_controller_tb/DUT/reg_out_tmp" type="array">
+      <obj_property name="ElementShortName">reg_out_tmp[7:0]</obj_property>
+      <obj_property name="ObjectShortName">reg_out_tmp[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_controller_tb/DUT/MUX_OUT" type="array">
+      <obj_property name="ElementShortName">MUX_OUT[3:0]</obj_property>
+      <obj_property name="ObjectShortName">MUX_OUT[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_controller_tb/DUT/cuenta_aux_reg" type="array">
+      <obj_property name="ElementShortName">cuenta_aux_reg[1:0]</obj_property>
+      <obj_property name="ObjectShortName">cuenta_aux_reg[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_controller_tb/CNT1" type="other">
+      <obj_property name="ElementShortName">CNT1</obj_property>
+      <obj_property name="ObjectShortName">CNT1</obj_property>
+   </wvobject>
+</wave_config>
